@@ -1,0 +1,14 @@
+{
+  "name": "edukit-moharafa-tarbawiya",
+  "version": "1.0.0",
+  "private": true,
+  "description": "EduKit — المحفظة التربوية: منصة اختبارات للتحضير لمباراة التعليم بالمغرب (إعداد RACHID EL MOURABIT)",
+  "scripts": {
+    "test": "node tests/run.mjs",
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0"
+  },
+  "engines": { "node": ">=18" }
+}
